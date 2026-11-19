@@ -1,0 +1,37 @@
+{
+  "versions": [
+    {
+      "version": "1.11.2",
+      "title": "First Release",
+      "date": "2026-11-19",
+      "size": "First release",
+      "summary": "Flip coins, climb thirty tiers to Eternity, and race the world on the speedrun leaderboards.",
+      "intro": "Coin Flip comes to the Firefly Launcher. Start with one copper coin, fill the table, and climb through thirty coin tiers to Eternity. Melt down for Mint Stamps and light a hundred stars, then race everyone on the speedrun leaderboards.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.11.2/CoinFlip-1.11.2-win.zip",
+      "bytes": 59803361,
+      "sha256": "e453cee20072d3a5d197ab1fa59fa2a012767d64438ab288e1e1124cfc16996f",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Speedrun leaderboards|Race to Gold, Diamond, Obsidian and Infinity against everyone, with a celebration for a top 10 finish.",
+            "Updates panel|Every update and patch is on the title screen, with a picture of each update."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Saves|Your saves are backed up every 10 minutes of play, and an older version never overwrites a newer save."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Smooth|The felt no longer fades to black around the table or on the title screen."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/coinflip-releases/main/pictures/backdrop-1.jpg"
+    }
+  ]
+}
