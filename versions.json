@@ -1,6 +1,27 @@
 {
   "versions": [
     {
+      "version": "1.12.1",
+      "title": "Patch 1.12.1",
+      "date": "2026-11-19",
+      "size": "Small patch",
+      "summary": "Fixes for Cozy's dust, struck coin flips and tier-up lag.",
+      "intro": "Fixes for Cozy's dust, struck coin flips and tier-up lag.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.12.1/CoinFlip-1.12.1-win.zip",
+      "bytes": 60177675,
+      "sha256": "17a4fb90f0ab9c4fe4e4626b03f1334d8af52bbc5e9391acab6684628907cec5",
+      "sections": [
+        {
+          "title": "Fixed",
+          "items": [
+            "Cozy|The dust no longer turns into big squares when the table is zoomed in, and no dust or blur shows over menus and panels.",
+            "Struck coins|They flip like any other coin (with the physics toss when the 3D pack is on) instead of ballooning.",
+            "Tier-ups|No more lag spike on tier-ups in the late game with the 3D pack on."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.12.0",
       "title": "The Mint",
       "date": "2026-11-19",
