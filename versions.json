@@ -1,6 +1,45 @@
 {
   "versions": [
     {
+      "version": "1.12.0",
+      "title": "The Mint",
+      "date": "2026-11-19",
+      "size": "Big update",
+      "summary": "Strike coins of your own past Infinity, and four new shader packs.",
+      "intro": "Past Infinity, melting also gives bars of the metal you melted at. Strike them into your own coins: a little bigger than the rest, with their own design and 1 to 3 traits. They sit in the middle of the table and stay through every melt. There are also four new shader packs to mix with Shiny, Smooth and 3D.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.12.0/CoinFlip-1.12.0-win.zip",
+      "bytes": 60173579,
+      "sha256": "3dea3ed5ebd46d42599f20bbecb4d5764224fd6a8eabf21ed9f0a8da933877ea",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "The Mint|Strike a bar into a coin at the press: pick a metal and a stamp (crown, eye, star or hourglass).",
+            "Struck coins|Up to 7 sit in the middle of the table, roll traits, and can be melted back into a bar.",
+            "Shader packs|Cozy, Retro, Cinematic and Time of day. Packs that change the same thing can't be on together."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Balance|Melting gives fewer stamps, many stars are weaker, less carries into each run, and tiers past Diamond and the helpers cost less.",
+            "Auto-Flipper stars|At most 3 coins at once, with smaller pay and speed bonuses.",
+            "Helpers|Helper coins in the tray are twice as big.",
+            "First look|New players start with the Shiny and 3D packs on.",
+            "Removed|The Table Leaf helper (and the coins in its spots) and the Clockwork upgrade."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Less lag|The late game runs smoother with Shiny and the 3D pack on.",
+            "The Mint|Long trait lists no longer run under the MELT button."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/coinflip-releases/main/pictures/1.12.0.jpg"
+    },
+    {
       "version": "1.11.2",
       "title": "First Release",
       "date": "2026-11-19",
