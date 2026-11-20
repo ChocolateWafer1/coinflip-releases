@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "version": "1.12.2",
+      "title": "Patch 1.12.2",
+      "date": "2026-11-20",
+      "size": "Small patch",
+      "summary": "Six save slots, a calmer Cinematic camera, and short huge money.",
+      "intro": "Six save slots, a calmer Cinematic camera, and short huge money.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.12.2/CoinFlip-1.12.2-win.zip",
+      "bytes": 60178978,
+      "sha256": "10e86558d023199dc0beb67b2aa8f992e20acc346cfc72a840e7625c1bf5e6af",
+      "sections": [
+        {
+          "title": "Improved",
+          "items": [
+            "Save slots|Six save slots instead of three (all in a row in a wide window, three at a time with tabs in a small one)."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Cinematic|The camera moves gently on big tables: a few pixels of sway, and a small lean into waves only.",
+            "Money|Huge amounts of money show short (up to VG, then 1.23E66) instead of a long row of digits."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.12.1",
       "title": "Patch 1.12.1",
       "date": "2026-11-19",
