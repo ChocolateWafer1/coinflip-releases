@@ -1,6 +1,42 @@
 {
   "versions": [
     {
+      "version": "1.13.0",
+      "title": "The Floor",
+      "date": "2026-11-20",
+      "size": "Big update",
+      "summary": "Open side tables that feed your main table, from Silver to Eternity.",
+      "intro": "Once your table reaches Silver, The Floor opens: side tables that are small games of their own. Pick each one's rule, sit down to play it, and every side table multiplies what your main table pays.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.13.0/CoinFlip-1.13.0-win.zip",
+      "bytes": 60372948,
+      "sha256": "94002c75e11df4a5851f448dc80eed392f18084b28c8048c94d5ad388a3bcb8f",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "The Floor|Up to five side tables, opening at Silver, Diamond, Pearl, Infinity and Eternity.",
+            "Table rules|High Roller, Speed, Lucky, Golden or Crowd: each table plays differently.",
+            "Feeding|Every side table multiplies your main table's pay, more as it grows.",
+            "Cash In|Start a side table over for stars that make it feed more, forever."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Background|Tables with an auto-flipper keep earning while you're at another one.",
+            "3D pack|Coins come to rest turned however they landed."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Shader packs|Cozy, Retro, Cinematic and Time of day keep showing under menus and on the title screen (never over the UI)."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/coinflip-releases/main/pictures/1.13.0.jpg"
+    },
+    {
       "version": "1.12.3",
       "title": "Patch 1.12.3",
       "date": "2026-11-20",
