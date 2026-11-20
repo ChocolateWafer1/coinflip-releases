@@ -1,6 +1,35 @@
 {
   "versions": [
     {
+      "version": "1.14.0",
+      "title": "Coin Packs",
+      "date": "2026-11-20",
+      "size": "Big update",
+      "summary": "Change how every coin looks: wear Neon, Candy or Planets, or paint your own.",
+      "intro": "Coin Packs are in the settings, under Shaders. A pack redraws every coin from Copper to Eternity. Three come with the game, and you can paint your own, heads and tails, on a canvas up to 128 pixels across.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.14.0/CoinFlip-1.14.0-win.zip",
+      "bytes": 60532015,
+      "sha256": "81421649c360b4effa2d14414654a432f5604bed0abf5fad07a092223b19b106",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Coin Packs|Wear one pack at a time to change how every coin looks, or keep the normal coins.",
+            "Neon, Candy, Planets|Three packs made with the game, every coin redrawn, every tails with a star.",
+            "Make your own|Paint every coin's heads and tails over a faint copy of the real one, then wear it.",
+            "Painting tools|Pencil, eraser, bucket, picker, line, box, circle, X / Y / diagonal symmetry, undo, and copy heads onto tails."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "3D pack and Smooth|Pack coins flip with the physics tosses and show on Smooth too."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/coinflip-releases/main/pictures/1.14.0.jpg"
+    },
+    {
       "version": "1.13.0",
       "title": "The Floor",
       "date": "2026-11-20",
