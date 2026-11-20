@@ -1,6 +1,35 @@
 {
   "versions": [
     {
+      "version": "1.12.3",
+      "title": "Patch 1.12.3",
+      "date": "2026-11-20",
+      "size": "Small patch",
+      "summary": "Stronger struck coins and melting, shader packs off the UI, and a counter that never sticks.",
+      "intro": "Stronger struck coins and melting, shader packs off the UI, and a counter that never sticks.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.12.3/CoinFlip-1.12.3-win.zip",
+      "bytes": 60190543,
+      "sha256": "e4bb17ce1cb83a3b1eabb3e3775a41150f1dfdbbd6603606318c790c50f1d881",
+      "sections": [
+        {
+          "title": "Improved",
+          "items": [
+            "The Mint|Struck coins are a big boost now: Gilded pays up to x150, Lucky raises every coin's pay, jackpots pay x500.",
+            "Melting|More stamps, and many stars are stronger again (about half of the 1.12.0 nerf undone).",
+            "After Infinity|The tiers after Infinity cost more, so The Mint has a stretch of its own."
+          ]
+        },
+        {
+          "title": "Fixed",
+          "items": [
+            "Shader packs|Cozy, Retro, Cinematic and Time of day only change the table: the UI stays sharp.",
+            "Money counter|No longer gets stuck half-rolled past 1SX, and shows huge amounts short.",
+            "Money sparks|The little coins flying to your money pass under it."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.12.2",
       "title": "Patch 1.12.2",
       "date": "2026-11-20",
