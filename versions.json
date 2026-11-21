@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "version": "1.14.1",
+      "title": "Patch 1.14.1",
+      "date": "2026-11-20",
+      "size": "Small patch",
+      "summary": "Painting a coin pack: copy a whole coin onto another, and outline the coin in one click.",
+      "intro": "Painting a coin pack: copy a whole coin onto another, and outline the coin in one click.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.14.1/CoinFlip-1.14.1-win.zip",
+      "bytes": 60530967,
+      "sha256": "1d70d98ab3e699ee12235242224a7ce06ce5e9433bb1a101d41053d6b1493b81",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Copy a coin here|Copy another coin's heads and tails onto the one you're on: the previous coin in one click, or any coin you've painted.",
+            "Outline|Traces the coin's edge in your colour and brush size, ready to fill with the bucket."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Undo|One Ctrl+Z takes back a whole coin copied onto another, both sides at once."
+          ]
+        }
+      ]
+    },
+    {
       "version": "1.14.0",
       "title": "Coin Packs",
       "date": "2026-11-20",
