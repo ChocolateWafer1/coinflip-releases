@@ -1,6 +1,39 @@
 {
   "versions": [
     {
+      "version": "1.15.0",
+      "title": "Quality of Life",
+      "date": "2026-11-22",
+      "size": "Update",
+      "summary": "Buy Max, steady timers, a coin info card, Records, a sound mix and more small comforts.",
+      "intro": "A batch of small things that make playing smoother: buy many upgrades at once, see how long until you can afford one, fold away maxed upgrades, and look up your best records.",
+      "download": "https://github.com/ChocolateWafer1/coinflip-releases/releases/download/v1.15.0/CoinFlip-1.15.0-win.zip",
+      "bytes": 60862578,
+      "sha256": "f813892d61bdb572ac9964dcd6d5183418c65a0ace98567f9c3ea524aa93751b",
+      "sections": [
+        {
+          "title": "New",
+          "items": [
+            "Buy Max|Shift-click or right-click an upgrade to buy as many as you can afford.",
+            "Ready-in timers|Upgrades you can't afford yet show how long until you can. They count down steadily and never jump back up a few seconds.",
+            "Coin info card|Rest the pointer on a coin to see what it pays, on a card at the side of the screen.",
+            "Records|A new tab next to Stats: best wave, most money, fastest melt and more.",
+            "Welcome back|After 5 minutes away, a card shows how long you were gone and what Night Shift earned.",
+            "Sound mix|Separate volumes for coin flips, clicks and menus, and big moments."
+          ]
+        },
+        {
+          "title": "Improved",
+          "items": [
+            "Shop|Maxed upgrades fold into one row you can open.",
+            "Next tier timers|They count down steadily too.",
+            "Keys and settings|A switches the auto-flipper, Ctrl+S saves right away, and Money Popups can be turned off."
+          ]
+        }
+      ],
+      "picture": "https://raw.githubusercontent.com/ChocolateWafer1/coinflip-releases/main/pictures/1.15.0.jpg"
+    },
+    {
       "version": "1.14.1",
       "title": "Patch 1.14.1",
       "date": "2026-11-20",
